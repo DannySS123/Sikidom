@@ -1,0 +1,224 @@
+# depslib dependency file v1.0
+1619885971 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\main.cpp
+	"test.h"
+
+1619783576 d:\bme\2. félév\prog2\nagyhf\sikidomok3\pont.h
+	<iostream>
+	<math.h>
+
+1619977744 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\pont.cpp
+	"pont.h"
+
+1619784957 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\sikidom.cpp
+	"sikidom.h"
+
+1620059408 d:\bme\2. félév\prog2\nagyhf\sikidomok3\sikidom.h
+	"pont.h"
+	<string.h>
+
+1619979557 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\negyzet.cpp
+	"negyzet.h"
+
+1620059718 d:\bme\2. félév\prog2\nagyhf\sikidomok3\negyzet.h
+	"sikidom.h"
+
+1619884951 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\kor.cpp
+	"kor.h"
+
+1619979490 d:\bme\2. félév\prog2\nagyhf\sikidomok3\kor.h
+	"sikidom.h"
+
+1619979579 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\haromszog.cpp
+	"haromszog.h"
+
+1619979582 d:\bme\2. félév\prog2\nagyhf\sikidomok3\haromszog.h
+	"sikidom.h"
+
+1619887258 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\sikidom_tarolo.cpp
+	"sikidom_tarolo.h"
+
+1619784128 d:\bme\2. félév\prog2\nagyhf\sikidomok3\sikidom_tarolo.h
+	"sikidom.h"
+
+1619979565 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\hatszog.cpp
+	"hatszog.h"
+
+1619979555 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\otszog.cpp
+	"otszog.h"
+
+1617393498 d:\bme\2. félév\prog2\nagyhf\sikidomok3\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1618666960 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1620059695 d:\bme\2. félév\prog2\nagyhf\sikidomok3\otszog.h
+	"sikidom.h"
+
+1620060053 d:\bme\2. félév\prog2\nagyhf\sikidomok3\hatszog.h
+	"sikidom.h"
+
+1620059285 d:\bme\2. félév\prog2\nagyhf\sikidomok3\test.h
+	<iostream>
+	<fstream>
+	"pont.h"
+	"negyzet.h"
+	"kor.h"
+	"haromszog.h"
+	"otszog.h"
+	"hatszog.h"
+	"negyszog.h"
+	"nem_szab_har.h"
+	"sikidom_tarolo.h"
+
+1619979055 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\test.cpp
+	"test.h"
+
+1620059489 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\nem_szab_har.cpp
+	"nem_szab_har.h"
+
+1620059483 d:\bme\2. félév\prog2\nagyhf\sikidomok3\nem_szab_har.h
+	"sikidom.h"
+
+1619979575 d:\bme\2. félév\prog2\nagyhf\sikidomok3\negyszog.h
+	"sikidom.h"
+
+1619979560 source:d:\bme\2. félév\prog2\nagyhf\sikidomok3\negyszog.cpp
+	"negyszog.h"
+
+1619884951 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\kor.cpp
+	"kor.h"
+
+1619979490 d:\bme\2_felev\prog2\nagyhf\sikidomok3\kor.h
+	"sikidom.h"
+
+1620059408 d:\bme\2_felev\prog2\nagyhf\sikidomok3\sikidom.h
+	"pont.h"
+	<string.h>
+
+1620062265 d:\bme\2_felev\prog2\nagyhf\sikidomok3\pont.h
+	<iostream>
+	<math.h>
+
+1620059543 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\main.cpp
+	"test.h"
+
+1620289395 d:\bme\2_felev\prog2\nagyhf\sikidomok3\test.h
+	<iostream>
+	<fstream>
+	"pont.h"
+	"negyzet.h"
+	"kor.h"
+	"haromszog.h"
+	"otszog.h"
+	"hatszog.h"
+	"negyszog.h"
+	"nem_szab_har.h"
+	"sikidom_tarolo.h"
+	"memtrace.h"
+
+1620059718 d:\bme\2_felev\prog2\nagyhf\sikidomok3\negyzet.h
+	"sikidom.h"
+
+1620061088 d:\bme\2_felev\prog2\nagyhf\sikidomok3\haromszog.h
+	"sikidom.h"
+
+1620059695 d:\bme\2_felev\prog2\nagyhf\sikidomok3\otszog.h
+	"sikidom.h"
+
+1620061094 d:\bme\2_felev\prog2\nagyhf\sikidomok3\hatszog.h
+	"sikidom.h"
+
+1619979575 d:\bme\2_felev\prog2\nagyhf\sikidomok3\negyszog.h
+	"sikidom.h"
+
+1620059483 d:\bme\2_felev\prog2\nagyhf\sikidomok3\nem_szab_har.h
+	"sikidom.h"
+
+1619784128 d:\bme\2_felev\prog2\nagyhf\sikidomok3\sikidom_tarolo.h
+	"sikidom.h"
+
+1619979560 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\negyszog.cpp
+	"negyszog.h"
+
+1619979557 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\negyzet.cpp
+	"negyzet.h"
+
+1619979555 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\otszog.cpp
+	"otszog.h"
+
+1619784957 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\sikidom.cpp
+	"sikidom.h"
+
+1619887258 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\sikidom_tarolo.cpp
+	"sikidom_tarolo.h"
+
+1620290658 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\test.cpp
+	"test.h"
+
+1620061091 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\haromszog.cpp
+	"haromszog.h"
+
+1620061098 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\hatszog.cpp
+	"hatszog.h"
+
+1620062184 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\nem_szab_har.cpp
+	"nem_szab_har.h"
+
+1620062283 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\pont.cpp
+	"pont.h"
+
+1617393498 d:\bme\2_felev\prog2\nagyhf\sikidomok3\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1618666960 source:d:\bme\2_felev\prog2\nagyhf\sikidomok3\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+

@@ -1,0 +1,14 @@
+haromszog 10 20 30 40
+negyzet 2 1 4 8
+kor 5 5 0 0
+negyzet 4 6 7 3
+hatszog 7 3 8 9
+otszog 15 15 16 17
+kor 10 10 12 13
+negyzet 10 30 45 45
+kor 2 2 -5 -5
+negyzet -1 -1 2 2
+otszog -4 -4 1 1
+haromszog -10 -9 -12 -14
+negyszog 1 3 2 8 7 9 8 2
+nem_szab_haromszog -2 6 -2 2 -4 10 0 6
